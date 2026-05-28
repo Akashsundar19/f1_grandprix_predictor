@@ -1,10 +1,10 @@
-# 🏎️ Formula 1 Race Winner Prediction
+#  Formula 1 Race Winner Prediction
 
 A Machine Learning project that predicts the potential winner of a Formula 1 race using historical race and driver performance data.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project uses Machine Learning techniques to analyze Formula 1 race data and predict race outcomes based on multiple performance-related factors.
 
@@ -72,21 +72,21 @@ F1-Race-Winner-Prediction/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/f1-race-winner-prediction.git
 ```
 
-### 2️⃣ Navigate to Project Folder
+###  Navigate to Project Folder
 
 ```bash
 cd f1-race-winner-prediction
 ```
 
-### 3️⃣ Install Dependencies
+###  Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 ```bash
 python main.py
