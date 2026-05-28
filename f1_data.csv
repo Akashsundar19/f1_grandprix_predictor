@@ -1,0 +1,320 @@
+Driver,Team,GridPosition,FinalPosition,Circuit,Winner
+VER,Red Bull Racing,1.0,1.0,Bahrain,1
+PER,Red Bull Racing,5.0,2.0,Bahrain,0
+SAI,Ferrari,4.0,3.0,Bahrain,0
+LEC,Ferrari,2.0,4.0,Bahrain,0
+RUS,Mercedes,3.0,5.0,Bahrain,0
+NOR,McLaren,7.0,6.0,Bahrain,0
+HAM,Mercedes,9.0,7.0,Bahrain,0
+PIA,McLaren,8.0,8.0,Bahrain,0
+ALO,Aston Martin,6.0,9.0,Bahrain,0
+STR,Aston Martin,12.0,10.0,Bahrain,0
+ZHO,Kick Sauber,17.0,11.0,Bahrain,0
+MAG,Haas F1 Team,15.0,12.0,Bahrain,0
+RIC,RB,14.0,13.0,Bahrain,0
+TSU,RB,11.0,14.0,Bahrain,0
+ALB,Williams,13.0,15.0,Bahrain,0
+HUL,Haas F1 Team,10.0,16.0,Bahrain,0
+OCO,Alpine,19.0,17.0,Bahrain,0
+GAS,Alpine,20.0,18.0,Bahrain,0
+BOT,Kick Sauber,16.0,19.0,Bahrain,0
+SAR,Williams,18.0,20.0,Bahrain,0
+VER,Red Bull Racing,1.0,1.0,Saudi Arabia,1
+PER,Red Bull Racing,3.0,2.0,Saudi Arabia,0
+LEC,Ferrari,2.0,3.0,Saudi Arabia,0
+PIA,McLaren,5.0,4.0,Saudi Arabia,0
+ALO,Aston Martin,4.0,5.0,Saudi Arabia,0
+RUS,Mercedes,7.0,6.0,Saudi Arabia,0
+BEA,Ferrari,11.0,7.0,Saudi Arabia,0
+NOR,McLaren,6.0,8.0,Saudi Arabia,0
+HAM,Mercedes,8.0,9.0,Saudi Arabia,0
+HUL,Haas F1 Team,15.0,10.0,Saudi Arabia,0
+ALB,Williams,12.0,11.0,Saudi Arabia,0
+MAG,Haas F1 Team,13.0,12.0,Saudi Arabia,0
+OCO,Alpine,17.0,13.0,Saudi Arabia,0
+SAR,Williams,19.0,14.0,Saudi Arabia,0
+TSU,RB,9.0,15.0,Saudi Arabia,0
+RIC,RB,14.0,16.0,Saudi Arabia,0
+BOT,Kick Sauber,16.0,17.0,Saudi Arabia,0
+ZHO,Kick Sauber,20.0,18.0,Saudi Arabia,0
+STR,Aston Martin,10.0,19.0,Saudi Arabia,0
+GAS,Alpine,18.0,20.0,Saudi Arabia,0
+SAI,Ferrari,2.0,1.0,Australia,1
+LEC,Ferrari,4.0,2.0,Australia,0
+NOR,McLaren,3.0,3.0,Australia,0
+PIA,McLaren,5.0,4.0,Australia,0
+PER,Red Bull Racing,6.0,5.0,Australia,0
+STR,Aston Martin,9.0,6.0,Australia,0
+TSU,RB,8.0,7.0,Australia,0
+ALO,Aston Martin,10.0,8.0,Australia,0
+HUL,Haas F1 Team,16.0,9.0,Australia,0
+MAG,Haas F1 Team,14.0,10.0,Australia,0
+ALB,Williams,12.0,11.0,Australia,0
+RIC,RB,18.0,12.0,Australia,0
+GAS,Alpine,17.0,13.0,Australia,0
+BOT,Kick Sauber,13.0,14.0,Australia,0
+ZHO,Kick Sauber,19.0,15.0,Australia,0
+OCO,Alpine,15.0,16.0,Australia,0
+RUS,Mercedes,7.0,17.0,Australia,0
+HAM,Mercedes,11.0,18.0,Australia,0
+VER,Red Bull Racing,1.0,19.0,Australia,0
+VER,Red Bull Racing,1.0,1.0,Japan,1
+PER,Red Bull Racing,2.0,2.0,Japan,0
+SAI,Ferrari,4.0,3.0,Japan,0
+LEC,Ferrari,8.0,4.0,Japan,0
+NOR,McLaren,3.0,5.0,Japan,0
+ALO,Aston Martin,5.0,6.0,Japan,0
+RUS,Mercedes,9.0,7.0,Japan,0
+PIA,McLaren,6.0,8.0,Japan,0
+HAM,Mercedes,7.0,9.0,Japan,0
+TSU,RB,10.0,10.0,Japan,0
+HUL,Haas F1 Team,12.0,11.0,Japan,0
+STR,Aston Martin,16.0,12.0,Japan,0
+MAG,Haas F1 Team,18.0,13.0,Japan,0
+BOT,Kick Sauber,13.0,14.0,Japan,0
+OCO,Alpine,15.0,15.0,Japan,0
+GAS,Alpine,17.0,16.0,Japan,0
+SAR,Williams,19.0,17.0,Japan,0
+ZHO,Kick Sauber,20.0,18.0,Japan,0
+RIC,RB,11.0,19.0,Japan,0
+ALB,Williams,14.0,20.0,Japan,0
+VER,Red Bull Racing,1.0,1.0,China,1
+NOR,McLaren,4.0,2.0,China,0
+PER,Red Bull Racing,2.0,3.0,China,0
+LEC,Ferrari,6.0,4.0,China,0
+SAI,Ferrari,7.0,5.0,China,0
+RUS,Mercedes,8.0,6.0,China,0
+ALO,Aston Martin,3.0,7.0,China,0
+PIA,McLaren,5.0,8.0,China,0
+HAM,Mercedes,18.0,9.0,China,0
+HUL,Haas F1 Team,9.0,10.0,China,0
+OCO,Alpine,13.0,11.0,China,0
+ALB,Williams,14.0,12.0,China,0
+GAS,Alpine,15.0,13.0,China,0
+ZHO,Kick Sauber,16.0,14.0,China,0
+STR,Aston Martin,11.0,15.0,China,0
+MAG,Haas F1 Team,17.0,16.0,China,0
+SAR,Williams,20.0,17.0,China,0
+RIC,RB,12.0,18.0,China,0
+TSU,RB,19.0,19.0,China,0
+BOT,Kick Sauber,10.0,20.0,China,0
+NOR,McLaren,5.0,1.0,Miami,1
+VER,Red Bull Racing,1.0,2.0,Miami,0
+LEC,Ferrari,2.0,3.0,Miami,0
+PER,Red Bull Racing,4.0,4.0,Miami,0
+SAI,Ferrari,3.0,5.0,Miami,0
+HAM,Mercedes,8.0,6.0,Miami,0
+TSU,RB,10.0,7.0,Miami,0
+RUS,Mercedes,7.0,8.0,Miami,0
+ALO,Aston Martin,15.0,9.0,Miami,0
+OCO,Alpine,13.0,10.0,Miami,0
+HUL,Haas F1 Team,9.0,11.0,Miami,0
+GAS,Alpine,12.0,12.0,Miami,0
+PIA,McLaren,6.0,13.0,Miami,0
+ZHO,Kick Sauber,19.0,14.0,Miami,0
+RIC,RB,20.0,15.0,Miami,0
+BOT,Kick Sauber,16.0,16.0,Miami,0
+STR,Aston Martin,11.0,17.0,Miami,0
+ALB,Williams,14.0,18.0,Miami,0
+MAG,Haas F1 Team,18.0,19.0,Miami,0
+SAR,Williams,17.0,20.0,Miami,0
+LEC,Ferrari,1.0,1.0,Monaco,1
+PIA,McLaren,2.0,2.0,Monaco,0
+SAI,Ferrari,3.0,3.0,Monaco,0
+NOR,McLaren,4.0,4.0,Monaco,0
+RUS,Mercedes,5.0,5.0,Monaco,0
+VER,Red Bull Racing,6.0,6.0,Monaco,0
+HAM,Mercedes,7.0,7.0,Monaco,0
+TSU,RB,8.0,8.0,Monaco,0
+ALB,Williams,9.0,9.0,Monaco,0
+GAS,Alpine,10.0,10.0,Monaco,0
+ALO,Aston Martin,14.0,11.0,Monaco,0
+RIC,RB,12.0,12.0,Monaco,0
+BOT,Kick Sauber,17.0,13.0,Monaco,0
+STR,Aston Martin,13.0,14.0,Monaco,0
+SAR,Williams,15.0,15.0,Monaco,0
+ZHO,Kick Sauber,18.0,16.0,Monaco,0
+OCO,Alpine,11.0,17.0,Monaco,0
+PER,Red Bull Racing,16.0,18.0,Monaco,0
+HUL,Haas F1 Team,19.0,19.0,Monaco,0
+MAG,Haas F1 Team,20.0,20.0,Monaco,0
+VER,Red Bull Racing,2.0,1.0,Canada,1
+NOR,McLaren,3.0,2.0,Canada,0
+RUS,Mercedes,1.0,3.0,Canada,0
+HAM,Mercedes,7.0,4.0,Canada,0
+PIA,McLaren,4.0,5.0,Canada,0
+ALO,Aston Martin,6.0,6.0,Canada,0
+STR,Aston Martin,9.0,7.0,Canada,0
+RIC,RB,5.0,8.0,Canada,0
+GAS,Alpine,15.0,9.0,Canada,0
+OCO,Alpine,18.0,10.0,Canada,0
+HUL,Haas F1 Team,17.0,11.0,Canada,0
+MAG,Haas F1 Team,14.0,12.0,Canada,0
+BOT,Kick Sauber,19.0,13.0,Canada,0
+TSU,RB,8.0,14.0,Canada,0
+ZHO,Kick Sauber,20.0,15.0,Canada,0
+SAI,Ferrari,12.0,16.0,Canada,0
+ALB,Williams,10.0,17.0,Canada,0
+PER,Red Bull Racing,16.0,18.0,Canada,0
+LEC,Ferrari,11.0,19.0,Canada,0
+SAR,Williams,13.0,20.0,Canada,0
+HAM,Mercedes,2.0,1.0,Silverstone,1
+VER,Red Bull Racing,4.0,2.0,Silverstone,0
+NOR,McLaren,3.0,3.0,Silverstone,0
+PIA,McLaren,5.0,4.0,Silverstone,0
+SAI,Ferrari,7.0,5.0,Silverstone,0
+HUL,Haas F1 Team,6.0,6.0,Silverstone,0
+STR,Aston Martin,8.0,7.0,Silverstone,0
+ALO,Aston Martin,10.0,8.0,Silverstone,0
+ALB,Williams,9.0,9.0,Silverstone,0
+TSU,RB,13.0,10.0,Silverstone,0
+SAR,Williams,12.0,11.0,Silverstone,0
+MAG,Haas F1 Team,17.0,12.0,Silverstone,0
+RIC,RB,15.0,13.0,Silverstone,0
+LEC,Ferrari,11.0,14.0,Silverstone,0
+BOT,Kick Sauber,16.0,15.0,Silverstone,0
+OCO,Alpine,18.0,16.0,Silverstone,0
+PER,Red Bull Racing,20.0,17.0,Silverstone,0
+ZHO,Kick Sauber,14.0,18.0,Silverstone,0
+RUS,Mercedes,1.0,19.0,Silverstone,0
+GAS,Alpine,19.0,20.0,Silverstone,0
+HAM,Mercedes,3.0,1.0,Belgium,1
+PIA,McLaren,5.0,2.0,Belgium,0
+LEC,Ferrari,1.0,3.0,Belgium,0
+VER,Red Bull Racing,11.0,4.0,Belgium,0
+NOR,McLaren,4.0,5.0,Belgium,0
+SAI,Ferrari,7.0,6.0,Belgium,0
+PER,Red Bull Racing,2.0,7.0,Belgium,0
+ALO,Aston Martin,8.0,8.0,Belgium,0
+OCO,Alpine,9.0,9.0,Belgium,0
+RIC,RB,13.0,10.0,Belgium,0
+STR,Aston Martin,15.0,11.0,Belgium,0
+ALB,Williams,10.0,12.0,Belgium,0
+GAS,Alpine,12.0,13.0,Belgium,0
+MAG,Haas F1 Team,17.0,14.0,Belgium,0
+BOT,Kick Sauber,14.0,15.0,Belgium,0
+TSU,RB,20.0,16.0,Belgium,0
+SAR,Williams,18.0,17.0,Belgium,0
+HUL,Haas F1 Team,16.0,18.0,Belgium,0
+ZHO,Kick Sauber,19.0,19.0,Belgium,0
+RUS,Mercedes,6.0,20.0,Belgium,0
+LEC,Ferrari,4.0,1.0,Monza,1
+PIA,McLaren,2.0,2.0,Monza,0
+NOR,McLaren,1.0,3.0,Monza,0
+SAI,Ferrari,5.0,4.0,Monza,0
+HAM,Mercedes,6.0,5.0,Monza,0
+VER,Red Bull Racing,7.0,6.0,Monza,0
+RUS,Mercedes,3.0,7.0,Monza,0
+PER,Red Bull Racing,8.0,8.0,Monza,0
+ALB,Williams,9.0,9.0,Monza,0
+MAG,Haas F1 Team,13.0,10.0,Monza,0
+ALO,Aston Martin,11.0,11.0,Monza,0
+COL,Williams,18.0,12.0,Monza,0
+RIC,RB,12.0,13.0,Monza,0
+OCO,Alpine,15.0,14.0,Monza,0
+GAS,Alpine,14.0,15.0,Monza,0
+BOT,Kick Sauber,19.0,16.0,Monza,0
+HUL,Haas F1 Team,10.0,17.0,Monza,0
+ZHO,Kick Sauber,20.0,18.0,Monza,0
+STR,Aston Martin,17.0,19.0,Monza,0
+TSU,RB,16.0,20.0,Monza,0
+NOR,McLaren,1.0,1.0,Singapore,1
+VER,Red Bull Racing,2.0,2.0,Singapore,0
+PIA,McLaren,5.0,3.0,Singapore,0
+RUS,Mercedes,4.0,4.0,Singapore,0
+LEC,Ferrari,9.0,5.0,Singapore,0
+HAM,Mercedes,3.0,6.0,Singapore,0
+SAI,Ferrari,10.0,7.0,Singapore,0
+ALO,Aston Martin,7.0,8.0,Singapore,0
+HUL,Haas F1 Team,6.0,9.0,Singapore,0
+PER,Red Bull Racing,13.0,10.0,Singapore,0
+COL,Williams,12.0,11.0,Singapore,0
+TSU,RB,8.0,12.0,Singapore,0
+OCO,Alpine,15.0,13.0,Singapore,0
+STR,Aston Martin,17.0,14.0,Singapore,0
+ZHO,Kick Sauber,20.0,15.0,Singapore,0
+BOT,Kick Sauber,19.0,16.0,Singapore,0
+GAS,Alpine,18.0,17.0,Singapore,0
+RIC,RB,16.0,18.0,Singapore,0
+MAG,Haas F1 Team,14.0,19.0,Singapore,0
+ALB,Williams,11.0,20.0,Singapore,0
+LEC,Ferrari,4.0,1.0,Austin,1
+SAI,Ferrari,3.0,2.0,Austin,0
+VER,Red Bull Racing,2.0,3.0,Austin,0
+NOR,McLaren,1.0,4.0,Austin,0
+PIA,McLaren,5.0,5.0,Austin,0
+RUS,Mercedes,20.0,6.0,Austin,0
+PER,Red Bull Racing,9.0,7.0,Austin,0
+HUL,Haas F1 Team,11.0,8.0,Austin,0
+LAW,RB,19.0,9.0,Austin,0
+COL,Williams,15.0,10.0,Austin,0
+MAG,Haas F1 Team,8.0,11.0,Austin,0
+GAS,Alpine,6.0,12.0,Austin,0
+ALO,Aston Martin,7.0,13.0,Austin,0
+TSU,RB,10.0,14.0,Austin,0
+STR,Aston Martin,13.0,15.0,Austin,0
+ALB,Williams,14.0,16.0,Austin,0
+BOT,Kick Sauber,16.0,17.0,Austin,0
+OCO,Alpine,12.0,18.0,Austin,0
+ZHO,Kick Sauber,18.0,19.0,Austin,0
+HAM,Mercedes,17.0,20.0,Austin,0
+SAI,Ferrari,1.0,1.0,Mexico,1
+NOR,McLaren,3.0,2.0,Mexico,0
+LEC,Ferrari,4.0,3.0,Mexico,0
+HAM,Mercedes,6.0,4.0,Mexico,0
+RUS,Mercedes,5.0,5.0,Mexico,0
+VER,Red Bull Racing,2.0,6.0,Mexico,0
+MAG,Haas F1 Team,7.0,7.0,Mexico,0
+PIA,McLaren,17.0,8.0,Mexico,0
+HUL,Haas F1 Team,10.0,9.0,Mexico,0
+GAS,Alpine,8.0,10.0,Mexico,0
+STR,Aston Martin,14.0,11.0,Mexico,0
+COL,Williams,16.0,12.0,Mexico,0
+OCO,Alpine,0.0,13.0,Mexico,0
+BOT,Kick Sauber,15.0,14.0,Mexico,0
+ZHO,Kick Sauber,19.0,15.0,Mexico,0
+LAW,RB,12.0,16.0,Mexico,0
+PER,Red Bull Racing,18.0,17.0,Mexico,0
+ALO,Aston Martin,13.0,18.0,Mexico,0
+ALB,Williams,9.0,19.0,Mexico,0
+TSU,RB,11.0,20.0,Mexico,0
+RUS,Mercedes,1.0,1.0,Las Vegas,1
+HAM,Mercedes,10.0,2.0,Las Vegas,0
+SAI,Ferrari,2.0,3.0,Las Vegas,0
+LEC,Ferrari,4.0,4.0,Las Vegas,0
+VER,Red Bull Racing,5.0,5.0,Las Vegas,0
+NOR,McLaren,6.0,6.0,Las Vegas,0
+PIA,McLaren,8.0,7.0,Las Vegas,0
+HUL,Haas F1 Team,9.0,8.0,Las Vegas,0
+TSU,RB,7.0,9.0,Las Vegas,0
+PER,Red Bull Racing,15.0,10.0,Las Vegas,0
+ALO,Aston Martin,16.0,11.0,Las Vegas,0
+MAG,Haas F1 Team,12.0,12.0,Las Vegas,0
+ZHO,Kick Sauber,13.0,13.0,Las Vegas,0
+COL,Williams,20.0,14.0,Las Vegas,0
+STR,Aston Martin,18.0,15.0,Las Vegas,0
+LAW,RB,14.0,16.0,Las Vegas,0
+OCO,Alpine,11.0,17.0,Las Vegas,0
+BOT,Kick Sauber,19.0,18.0,Las Vegas,0
+ALB,Williams,17.0,19.0,Las Vegas,0
+GAS,Alpine,3.0,20.0,Las Vegas,0
+NOR,McLaren,1.0,1.0,Abu Dhabi,1
+SAI,Ferrari,3.0,2.0,Abu Dhabi,0
+LEC,Ferrari,19.0,3.0,Abu Dhabi,0
+HAM,Mercedes,16.0,4.0,Abu Dhabi,0
+RUS,Mercedes,6.0,5.0,Abu Dhabi,0
+VER,Red Bull Racing,4.0,6.0,Abu Dhabi,0
+GAS,Alpine,5.0,7.0,Abu Dhabi,0
+HUL,Haas F1 Team,7.0,8.0,Abu Dhabi,0
+ALO,Aston Martin,8.0,9.0,Abu Dhabi,0
+PIA,McLaren,2.0,10.0,Abu Dhabi,0
+ALB,Williams,18.0,11.0,Abu Dhabi,0
+TSU,RB,11.0,12.0,Abu Dhabi,0
+ZHO,Kick Sauber,15.0,13.0,Abu Dhabi,0
+STR,Aston Martin,13.0,14.0,Abu Dhabi,0
+DOO,Alpine,17.0,15.0,Abu Dhabi,0
+MAG,Haas F1 Team,14.0,16.0,Abu Dhabi,0
+LAW,RB,12.0,17.0,Abu Dhabi,0
+BOT,Kick Sauber,9.0,18.0,Abu Dhabi,0
+COL,Williams,20.0,19.0,Abu Dhabi,0
+PER,Red Bull Racing,10.0,20.0,Abu Dhabi,0
